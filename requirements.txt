@@ -14,5 +14,4 @@ pillow
 --find-links https://dl.fbaipublicfiles.com/detectron2/wheels/cpu/torch1.6/index.html
 torch===1.7.1+cpu
 torchvision
-detectron2
 pycocotools-fix
